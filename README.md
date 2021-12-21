@@ -1,8 +1,8 @@
 
 ### Running the Result:
-Run the notebook Unet_Final.ipynb. The output will be a csv file.
+Result for the project: run the notebook Unet_Final.ipynb. The output will be a csv file.
 
-For pix2pix: execute pix2pix_train.ipynb
+Result for pix2pix: execute pix2pix_train.ipynb
 
 ### Contributions
 Qingwei - Every file in the experiment notebooks and in output CSV. Cooperated with Emma on Attention Unet.
